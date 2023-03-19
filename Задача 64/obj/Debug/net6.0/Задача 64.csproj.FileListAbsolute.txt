@@ -1,0 +1,15 @@
+C:\Users\sermo\Desktop\Study and work\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 9\Задача 64\bin\Debug\net6.0\Задача 64.exe
+C:\Users\sermo\Desktop\Study and work\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 9\Задача 64\bin\Debug\net6.0\Задача 64.deps.json
+C:\Users\sermo\Desktop\Study and work\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 9\Задача 64\bin\Debug\net6.0\Задача 64.runtimeconfig.json
+C:\Users\sermo\Desktop\Study and work\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 9\Задача 64\bin\Debug\net6.0\Задача 64.dll
+C:\Users\sermo\Desktop\Study and work\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 9\Задача 64\bin\Debug\net6.0\Задача 64.pdb
+C:\Users\sermo\Desktop\Study and work\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 9\Задача 64\obj\Debug\net6.0\Задача 64.csproj.AssemblyReference.cache
+C:\Users\sermo\Desktop\Study and work\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 9\Задача 64\obj\Debug\net6.0\Задача 64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sermo\Desktop\Study and work\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 9\Задача 64\obj\Debug\net6.0\Задача 64.AssemblyInfoInputs.cache
+C:\Users\sermo\Desktop\Study and work\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 9\Задача 64\obj\Debug\net6.0\Задача 64.AssemblyInfo.cs
+C:\Users\sermo\Desktop\Study and work\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 9\Задача 64\obj\Debug\net6.0\Задача 64.csproj.CoreCompileInputs.cache
+C:\Users\sermo\Desktop\Study and work\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 9\Задача 64\obj\Debug\net6.0\Задача 64.dll
+C:\Users\sermo\Desktop\Study and work\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 9\Задача 64\obj\Debug\net6.0\refint\Задача 64.dll
+C:\Users\sermo\Desktop\Study and work\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 9\Задача 64\obj\Debug\net6.0\Задача 64.pdb
+C:\Users\sermo\Desktop\Study and work\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 9\Задача 64\obj\Debug\net6.0\Задача 64.genruntimeconfig.cache
+C:\Users\sermo\Desktop\Study and work\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 9\Задача 64\obj\Debug\net6.0\ref\Задача 64.dll
